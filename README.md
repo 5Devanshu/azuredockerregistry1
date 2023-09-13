@@ -1,0 +1,1 @@
+# azuredockerregistry1
